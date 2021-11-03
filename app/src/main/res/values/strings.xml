@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bluetooth Joystick</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_devices">Devices</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_paired_devices">Terminais pareados</string>
+    <string name="title_other_devices">Outros dispositivos</string>
+    <string name="button_scan">Procurar dispositivo</string>
+    <string name="select_device">Selecione o dispositivo</string>
+    <string name="none_found">Nenhum dispositivo encontrado</string>
+    <string name="scanning">Procurando dispositivos</string>
+    <string name="none_paired">Nenhum terminal pareado</string>
+    <string name="bt_not_enabled_leaving">Bluetooth não habilitando, saindo.</string>
+    <string name="bluetooth_connected">Bluetooth Connected</string>
+    <string name="title_connected_to">Conectado à</string>
+    <string name="title_connecting">Conectando</string>
+    <string name="title_not_connected">Não conectado</string>
+    <string name="btn_a">Botão A</string>
+    <string name="btn_b">Botão B</string>
+    <string name="btn_c">Botão C</string>
+    <string name="btn_d">Botão D</string>
+</resources>

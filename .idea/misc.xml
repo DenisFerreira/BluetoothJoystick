@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/drawable/arcade_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/drawable/arcade_button_blue.xml" value="0.3828125" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout-land/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/activity_main.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/arcade_button.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/arcade_button_view.xml" value="0.2015625" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/content_drawer.xml" value="0.3500905797101449" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/device_name.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/fragment_gallery.xml" value="0.3500905797101449" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/fragment_home.xml" value="0.3500905797101449" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/fragment_slideshow.xml" value="0.3500905797101449" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/layout/nav_header_drawer.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/denis/AndroidStudioProjects/BluetoothJoystick/app/src/main/res/menu/drawer.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
